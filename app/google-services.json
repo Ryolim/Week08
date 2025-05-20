@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841033914160",
+    "project_id": "studentapp-a9b16",
+    "storage_bucket": "studentapp-a9b16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841033914160:android:aab026166cbf17cbc31af5",
+        "android_client_info": {
+          "package_name": "com.example.valeryo_kenaldhie_modul_8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtMrXizD35gyuiIO1Wy4vMqrRwrp0B4s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
